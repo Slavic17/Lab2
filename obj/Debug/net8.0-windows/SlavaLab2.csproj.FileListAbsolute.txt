@@ -1,0 +1,16 @@
+D:\Нова папка\SlavaLab2\bin\Debug\net8.0-windows\SlavaLab2.exe
+D:\Нова папка\SlavaLab2\bin\Debug\net8.0-windows\SlavaLab2.deps.json
+D:\Нова папка\SlavaLab2\bin\Debug\net8.0-windows\SlavaLab2.runtimeconfig.json
+D:\Нова папка\SlavaLab2\bin\Debug\net8.0-windows\SlavaLab2.dll
+D:\Нова папка\SlavaLab2\bin\Debug\net8.0-windows\SlavaLab2.pdb
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.Form1.resources
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.csproj.GenerateResource.cache
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.AssemblyInfoInputs.cache
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.AssemblyInfo.cs
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.csproj.CoreCompileInputs.cache
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.dll
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\refint\SlavaLab2.dll
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.pdb
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\SlavaLab2.genruntimeconfig.cache
+D:\Нова папка\SlavaLab2\obj\Debug\net8.0-windows\ref\SlavaLab2.dll

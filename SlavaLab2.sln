@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlavaLab2", "SlavaLab2.csproj", "{5EF9C243-4A14-4B81-B282-00041484F654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF9C243-4A14-4B81-B282-00041484F654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF9C243-4A14-4B81-B282-00041484F654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF9C243-4A14-4B81-B282-00041484F654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF9C243-4A14-4B81-B282-00041484F654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73E5570B-4AC4-4E4D-A8F6-89A31867C7C4}
+	EndGlobalSection
+EndGlobal
